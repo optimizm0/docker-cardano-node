@@ -19,7 +19,6 @@
     <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-containers.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
 
-
 ## Introduction
 
 Hello and welcome to the Block Foundation's Cardano Node Docker Image Repository! This repository is a crucial part of our mission to drive architectural innovation and address housing disparities via blockchain technology.
@@ -33,6 +32,20 @@ Within this repository, you will find comprehensive instructions on how to deplo
 This initiative is a testament to our unwavering commitment to transparency, collaborative development, and democratization of technology. We're thrilled to share this resource with you and anticipate seeing how it facilitates your involvement within the blockchain sphere.
 
 Thank you for being a part of the Block Foundation community. Your participation propels our journey towards transforming the architectural and real estate sectors through the adoption of blockchain technology. Together, we can shape a future that is more sustainable, inclusive, and progressively oriented.
+
+## System Requirements
+
+- CPU: ARM64 processor min 2 cores at 2GHz or faster.
+- Memory: 16GB of RAM.
+- Storage: 50 GB.
+- Broadband: 10 Mbps +
+
+## Resourcves
+
+- https://docs.cardano.org/development-guidelines/installing-the-cardano-node/
+- https://hub.docker.com/r/inputoutput/cardano-node
+- https://github.com/jterrier84/Cardano-node-docker
+
 
 ## Development
 
