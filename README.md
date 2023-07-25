@@ -8,7 +8,7 @@
 ---
 
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Cardano Node</h1>
     <h3 align="left">Block Foundation Docker Containers</h3>
 </div>
@@ -16,8 +16,9 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-containers.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
+
 
 ## Introduction
 
@@ -48,7 +49,7 @@ website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundati
 We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
-## Legal
+## Legal Information
 
 ### Copyright
 
