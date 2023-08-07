@@ -36,7 +36,7 @@
 
 </div>
 
-**Welcome to the Block Foundation's Cardano Node Docker Image Repository! This repository is a crucial part of our mission to drive architectural innovation and address housing disparities via blockchain technology.**
+**Welcome to the Block Foundation's Cardano Node Docker Image Repository!**
 
 ## Introduction
 
@@ -45,8 +45,6 @@ Our repository is designed with the purpose of providing a Docker image that is 
 This Docker image, specifically tailored for the Cardano Node, is designed to maximize usability, robustness, and security. It comes equipped with a pre-set environment that eradicates the need for manual setup, making it an invaluable tool for developers and enthusiasts who want to delve into the Cardano network or contribute to the network's expansion by running their own node.
 
 Within this repository, you will find comprehensive instructions on how to deploy and use the Docker image, along with the source code for the image itself. We encourage our community to leverage this Docker image, share their experiences and contribute to its ongoing refinement and development.
-
-This initiative is a testament to our unwavering commitment to transparency, collaborative development, and democratization of technology. We're thrilled to share this resource with you and anticipate seeing how it facilitates your involvement within the blockchain sphere.
 
 ## System Requirements
 
