@@ -124,7 +124,7 @@ jobs:
 
       -
         name: Build image
-        uses: docker/bake-action@v2
+        uses: docker/bake-action@v6
         env:
           # GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           # REGISTRY_ENDPOINT: ${{ secrets.REGISTRY_ENDPOINT }}
